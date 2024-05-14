@@ -1,5 +1,6 @@
-                                                       Hi👋,I'm Usha U
-                                          Enthusiastic Software Developer From India 🌠
+                                                              Hi👋,I'm Usha U
+                                               Enthusiastic Software Developer From India 🌠
+
 
 
 
