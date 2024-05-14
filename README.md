@@ -1,5 +1,13 @@
-# 💫 About Me:
+                                                                Hi👋,I'm Usha U
+                                                Enthusiastic Software Developer From India ![Flag](https://github.com/USHAU1234/USHAU1234/assets/169807851/11bc1a1e-9089-4183-8221-2907232c753d)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=USHAU1234&icon=2&color=3)](https://visitcount.itsvg.in)
+
+
 -I'm Student at KNS Institute Of Technology affiliated with VTU<br>-Now I'm in my 3rd year(6th sem)of Engineering<br>-I'm currently learning Web Development
+
 
 
 ## 🌐 Socials:
@@ -15,6 +23,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=USHAU1234&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=USHAU1234&icon=2&color=3)](https://visitcount.itsvg.in)
+
 
