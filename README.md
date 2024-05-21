@@ -1,5 +1,5 @@
-                                                              Hi👋,I'm Usha U
-                                               Enthusiastic Software Developer From India 🌠
+                                           Hi👋,I'm Usha U
+                            Enthusiastic Software Developer From India 🌠
 
 
 
@@ -22,8 +22,7 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=USHAU1234&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
