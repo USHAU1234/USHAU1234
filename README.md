@@ -7,7 +7,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=USHAU1234&icon=2&color=3)](https://visitcount.itsvg.in)
 
-💻I'm Student at KNS Institute Of Technology affiliated with VTU<br>📚Now I'm in my 3rd year(6th sem)of Engineering<br>📱I'm currently learning Web Development
+💻I'm Student at KNS Institute Of Technology affiliated with VTU<br>📚Now I'm in my 4th year(7th sem)of Engineering<br>📱I'm currently learning AIML
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=USHAU1234&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
